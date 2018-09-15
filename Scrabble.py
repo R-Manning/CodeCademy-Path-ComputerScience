@@ -21,3 +21,4 @@ for player,words in player_to_words.items():
     player_to_points[player] = player_points
 
 print(player_to_points)
+
